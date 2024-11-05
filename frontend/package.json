@@ -1,0 +1,35 @@
+{
+  "name": "nuxt3-shadcn-starter-template",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/image": "^1.8.0",
+    "@pinia/nuxt": "^0.5.4",
+    "@radix-icons/vue": "^1.0.0",
+    "@vueuse/core": "^11.2.0",
+    "@vueuse/nuxt": "^11.0.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-vue-next": "^0.454.0",
+    "nuxt": "^3.13.0",
+    "pinia": "^2.2.2",
+    "radix-vue": "^1.9.5",
+    "shadcn-nuxt": "^0.10.4",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "@tailwindcss/typography": "^0.5.15",
+    "typescript": "^5.6.2"
+  }
+}
